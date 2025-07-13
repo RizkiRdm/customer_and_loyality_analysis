@@ -1,10 +1,8 @@
 import pandas as pd
 import numpy as np
-from datetime import datetime, timedelta
+from datetime import datetime
 import random
-from faker import Faker
 import uuid
-import json
 
 
 def make_data_dirty(
